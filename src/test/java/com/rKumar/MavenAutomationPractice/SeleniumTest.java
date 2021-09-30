@@ -47,6 +47,12 @@ public class SeleniumTest {
 		}
 		
 	}
+	
+	@Test
+	public void gitBranch() {
+		
+		System.out.println("Created new git branch");
+	}
 
 }
 //1359
