@@ -19,6 +19,7 @@ public class SeleniumTest {
 		driver.manage().window().maximize();
 		driver.get("https://rahulshettyacademy.com/AutomationPractice/");
 		System.out.println("Directed to url??");
+		System.out.println("Yes");
 		
 		JavascriptExecutor jse = ((JavascriptExecutor)driver);
 		jse.executeScript("document.querySelector('.tableFixHead').scrollTop=5000");
