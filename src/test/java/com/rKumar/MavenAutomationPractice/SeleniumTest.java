@@ -53,6 +53,7 @@ public class SeleniumTest {
 		
 		System.out.println("Created new git branch");
 		System.out.println("Created new git branch");
+		System.out.println("Created new git branch");
 	}
 
 }
